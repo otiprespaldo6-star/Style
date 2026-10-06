@@ -1,0 +1,10 @@
+{
+  "name": "Aura Color — Descubre los colores que te hacen brillar",
+  "description": "PWA de colorimetría personal con IA: descubre tu paleta de las 12 estaciones, análisis de foto, draping virtual, outfits, maquillaje y guía de estilo.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
